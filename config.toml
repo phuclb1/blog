@@ -1,0 +1,13 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+theme = "kitab"
+title = "Phuc's Books"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+pluralizelisttitles = false
+
+[params]
+  author = "Phuc Le"
+  description = "Some books of Phuc"
+  dateFormat = "2020-09-25"
+  footer1 = "Awesome Books"
